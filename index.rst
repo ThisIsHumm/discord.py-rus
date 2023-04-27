@@ -9,10 +9,10 @@
 .. image:: /images/snake.svg
 .. image:: /images/snake_dark.svg
 
-discord.py is a modern, easy to use, feature-rich, and async ready API wrapper
-for Discord.
+discord.py современная, легкая к использованию, многофункцианальная и асинхронная готовая оболочка API
+для дискорда.
 
-**Features:**
+**Функции:**
 
 - Modern Pythonic API using ``async``\/``await`` syntax
 - Sane rate limit handling that prevents 429s
