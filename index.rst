@@ -14,25 +14,25 @@ discord.py современная, легкая к использованию, �
 
 **Функции:**
 
-- Modern Pythonic API using ``async``\/``await`` syntax
+- современный питонический API с использованием ``async``\/``await`` синтаксиса
 - Sane rate limit handling that prevents 429s
 - Command extension to aid with bot creation
-- Easy to use with an object oriented design
-- Optimised for both speed and memory
+- легко использовать с объектно-ориентированным дизайном
+- оптимизирована как по скорости, так и по памяти
 
-Getting started
+начало
 -----------------
 
-Is this your first time using the library? This is the place to get started!
+это твой первый раз использования библиотеки? Это место, чтобы начать!
 
-- **First steps:** :doc:`intro` | :doc:`quickstart` | :doc:`logging`
-- **Working with Discord:** :doc:`discord` | :doc:`intents`
-- **Examples:** Many examples are available in the :resource:`repository <examples>`.
+- **Первые шаги:** :doc:`intro` | :doc:`quickstart` | :doc:`logging`
+- **Работа с Discord:** :doc:`discord` | :doc:`intents`
+- **Примеры:** множество примеров доступны в :resource:`repository <examples>`.
 
-Getting help
+помощь
 --------------
 
-If you're having trouble with something, these resources might help.
+Если у тебя с чем-то проблемы, эти ресурсы могут помочь.
 
 - Try the :doc:`faq` first, it's got answers to all common questions.
 - Ask us and hang out with us in our :resource:`Discord <discord>` server.
