@@ -4,7 +4,7 @@
 
 .. currentmodule:: discord
 
-Quickstart
+Быстрый старт
 ============
 
 This page gives a brief introduction to the library. It assumes you have the library installed,
