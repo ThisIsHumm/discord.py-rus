@@ -1,6 +1,6 @@
 :orphan:
 
-.. _quickstart:
+.. _быстрый старт:
 
 .. currentmodule:: discord
 
